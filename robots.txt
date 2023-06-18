@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-kodok-togel.github.io/sitemap.xml
